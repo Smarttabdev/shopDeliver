@@ -1,0 +1,6 @@
+module Pods_Shopl_ShoplTests {
+  umbrella header "Pods-Shopl-ShoplTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

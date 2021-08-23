@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496313767074",
+    "firebase_url": "https://shopl-287800.firebaseio.com",
+    "project_id": "shopl-287800",
+    "storage_bucket": "shopl-287800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496313767074:android:7081750a321584aa2c33fb",
+        "android_client_info": {
+          "package_name": "com.shopl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496313767074-ihm8iqbpp22fjoedgpgqjd2tp3ctmk5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsO7UlSjrsIloxq0TKuiBwS3Xw79kZq5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496313767074-ihm8iqbpp22fjoedgpgqjd2tp3ctmk5m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496313767074-75f9mb9cblregbcspjmaa64ribtqvju5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.squareflo.shopl",
+                "app_store_id": "1537901869"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
